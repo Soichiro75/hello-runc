@@ -6,7 +6,7 @@ The code can be found on [Github](https://github.com/opencontainers/runc).
 ## Getting started
 
 You can run Docker images pulled with Docker: first you need to run a container for that image, then export it’s file system.
-[If you don't have any Docker environment, reference below procedure.](#Install Docker)
+[If you don't have any Docker environment, reference below procedure.](#install-docker)
 
 ```
 $ docker export myapp > myapp.tar
@@ -18,7 +18,7 @@ $ cd /tmp/myappfs
 
 ### Install Docker
 
-For more details, see [](https://www.docker.com/products/docker)
+For more details, see [Docker Page](https://www.docker.com/products/docker)
 
 DOCKER FOR MAC
 
