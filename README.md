@@ -6,7 +6,8 @@ The code can be found on [Github](https://github.com/opencontainers/runc).
 ## Getting started
 
 You can run Docker images pulled with Docker: first you need to run a container for that image, then export it’s file system.
-[If you don't have any Docker environment, reference below procedure.](#InstallDocker)
+
+If you don't have any Docker environment, reference below procedure.[to Appendix in this page](#installdocker)
 
 ```
 $ docker export myapp > myapp.tar
