@@ -3,7 +3,7 @@
 
 The code can be found on [Github](https://github.com/opencontainers/runc).
 
-## Getting started
+## Getting Started
 
 You can run Docker images pulled with Docker: first you need to run a container for that image, then export it’s file system.
 
@@ -44,8 +44,11 @@ DOCKER FOR MAC
 
 - Click `Download Docker for Mac` and `Save`
 
+![]()
 
 
+
+[Return to procedure runC](#getting-started)
 
 
 
