@@ -46,7 +46,6 @@ DOCKER FOR MAC
 
 <img src="https://github.com/Soichiro75/hello-runc/blob/master/images/2016-07-07_DownloadDockerDmg.png" width="320px">
 
-![DownloadDockerDmg](https://github.com/Soichiro75/hello-runc/blob/master/images/2016-07-07_DownloadDockerDmg.png)
 
 
 
